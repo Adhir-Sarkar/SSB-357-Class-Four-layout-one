@@ -1,0 +1,84 @@
+*{
+    margin: 0%;
+}
+.header{
+    background-color: red;
+    height: 100px;
+    text-align: center;
+}
+.header h1{
+color: #fff;
+
+}
+.bannar{
+    background-color: royalblue;
+    height: 400px;
+    text-align: center;
+}
+.bannar h1{
+    color: white;
+    }
+
+    .content{
+        overflow: hidden;}
+.left_content{
+width: 50%;
+background-color: tomato;
+height: 300px;
+text-align: center;
+float: left;
+}
+.left_content h1{
+    color: white;
+}
+.right_content{
+    width: 50%;
+    background-color: violet;
+    height: 300px;
+    text-align: center;
+    float: left;
+}
+.right_content h1{
+    color: white;
+}
+.item{
+    overflow: hidden;
+}
+.item_one{
+    background-color: purple;
+    height: 200px;
+    width: 33.3%;
+    text-align: center;
+    float: left;
+}
+.item_one h1{
+    color: white;
+}
+
+.item_two{
+    background-color: blue;
+    height: 200px;
+    width: 33.3%;
+    text-align: center;
+    float: left;
+}
+.item_two h1{
+    color: white;
+}
+.item_three{
+    background-color: pink;
+    height: 200px;
+    width: 33.3%;
+    text-align: center;
+    float: left;
+}
+.item_three h1{
+    color: white;
+
+}
+.footer{
+    background-color: red;
+    height: 100px;
+    text-align: center;
+    color: white;
+}
